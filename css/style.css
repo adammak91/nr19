@@ -1,0 +1,46 @@
+
+
+.square1{
+  width: 80px;
+  height: 80px;
+  background-color: black;
+  margin-bottom: 10px;
+}
+.square2{
+  width: 80px;
+  height: 80px;
+  background-color:rgba(0, 0, 0, 0.75);
+  margin-bottom: 10px;
+}
+.square3{
+  width: 80px;
+  height: 80px;
+  background-color: rgb(0, 0, 0, 0.50);
+  margin-bottom: 10px;
+}
+.square4{
+  width: 80px;
+  height: 80px;
+  background-color: rgb(0, 0, 0, 0.25);  
+}
+
+
+
+body{background-color: beige;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
